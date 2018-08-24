@@ -1,0 +1,246 @@
+2017-07-20 23:30:36 +0200 [E]  RA: 
+Attributes for '/var/folders/n0/s6glmv2s6qj484ms12rq3yfm0000gn/T/FPInstallHelper':
+ {
+    NSFileCreationDate = "2017-06-23 19:17:09 +0000";
+    NSFileExtendedAttributes =     {
+        "com.apple.quarantine" = <30313831 3b353937 31316634 363b476f 6f676c65 5c783230 4368726f 6d653b34 33454442 3535332d 33423243 2d344238 442d3941 31462d42 31363436 44354436 373632>;
+    };
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 0;
+    NSFileGroupOwnerAccountName = wheel;
+    NSFileHFSCreatorCode = 0;
+    NSFileHFSTypeCode = 0;
+    NSFileModificationDate = "2017-06-23 19:17:09 +0000";
+    NSFileOwnerAccountID = 0;
+    NSFileOwnerAccountName = root;
+    NSFilePosixPermissions = 2541;
+    NSFileReferenceCount = 1;
+    NSFileSize = 27200;
+    NSFileSystemFileNumber = 167033319;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeRegular;
+}
+
+2017-07-20 23:30:36 +0200 [E]  RA: 
+Attributes for '/var/folders/n0/s6glmv2s6qj484ms12rq3yfm0000gn/T':
+ {
+    NSFileCreationDate = "2016-12-26 21:43:05 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2017-07-20 21:30:29 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = nrgiga;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 73;
+    NSFileSize = 2482;
+    NSFileSystemFileNumber = 157978614;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeDirectory;
+}
+
+2017-08-26 16:07:50 +0200 [E]  RA: 
+Attributes for '/var/folders/n0/s6glmv2s6qj484ms12rq3yfm0000gn/T/FPInstallHelper':
+ {
+    NSFileCreationDate = "2017-07-25 04:08:51 +0000";
+    NSFileExtendedAttributes =     {
+        "com.apple.quarantine" = <30313831 3b353961 31383038 303b476f 6f676c65 5c783230 4368726f 6d653b31 43393630 4138462d 41394333 2d343546 422d3930 39312d37 39453645 45454343 433538>;
+    };
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 0;
+    NSFileGroupOwnerAccountName = wheel;
+    NSFileHFSCreatorCode = 0;
+    NSFileHFSTypeCode = 0;
+    NSFileModificationDate = "2017-07-25 04:08:51 +0000";
+    NSFileOwnerAccountID = 0;
+    NSFileOwnerAccountName = root;
+    NSFilePosixPermissions = 2541;
+    NSFileReferenceCount = 1;
+    NSFileSize = 27200;
+    NSFileSystemFileNumber = 167534114;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeRegular;
+}
+
+2017-08-26 16:07:50 +0200 [E]  RA: 
+Attributes for '/var/folders/n0/s6glmv2s6qj484ms12rq3yfm0000gn/T':
+ {
+    NSFileCreationDate = "2016-12-26 21:43:05 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2017-08-26 14:07:44 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = nrgiga;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 90;
+    NSFileSize = 3060;
+    NSFileSystemFileNumber = 157978614;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeDirectory;
+}
+
+2017-10-14 16:43:54 +0200 [E]  RA: 
+Attributes for '/var/folders/n0/s6glmv2s6qj484ms12rq3yfm0000gn/T/FPInstallHelper':
+ {
+    NSFileCreationDate = "2017-09-26 05:09:02 +0000";
+    NSFileExtendedAttributes =     {
+        "com.apple.quarantine" = <30313831 3b353965 32303634 353b476f 6f676c65 5c783230 4368726f 6d653b34 37393642 3138392d 33463342 2d343934 302d4134 30372d43 37344530 43453935 413137>;
+    };
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 0;
+    NSFileGroupOwnerAccountName = wheel;
+    NSFileHFSCreatorCode = 0;
+    NSFileHFSTypeCode = 0;
+    NSFileModificationDate = "2017-09-26 05:09:02 +0000";
+    NSFileOwnerAccountID = 0;
+    NSFileOwnerAccountName = root;
+    NSFilePosixPermissions = 2541;
+    NSFileReferenceCount = 1;
+    NSFileSize = 27200;
+    NSFileSystemFileNumber = 170367698;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeRegular;
+}
+
+2017-10-14 16:43:54 +0200 [E]  RA: 
+Attributes for '/var/folders/n0/s6glmv2s6qj484ms12rq3yfm0000gn/T':
+ {
+    NSFileCreationDate = "2016-12-26 21:43:05 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2017-10-14 14:43:49 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = nrgiga;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 76;
+    NSFileSize = 2584;
+    NSFileSystemFileNumber = 157978614;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeDirectory;
+}
+
+2017-10-22 17:49:17 +0200 [E]  RA: 
+Attributes for '/var/folders/n0/s6glmv2s6qj484ms12rq3yfm0000gn/T/FPInstallHelper':
+ {
+    NSFileCreationDate = "2017-09-26 05:09:02 +0000";
+    NSFileExtendedAttributes =     {
+        "com.apple.quarantine" = <30313831 3b353965 32303634 353b476f 6f676c65 5c783230 4368726f 6d653b34 37393642 3138392d 33463342 2d343934 302d4134 30372d43 37344530 43453935 413137>;
+    };
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 0;
+    NSFileGroupOwnerAccountName = wheel;
+    NSFileHFSCreatorCode = 0;
+    NSFileHFSTypeCode = 0;
+    NSFileModificationDate = "2017-09-26 05:09:02 +0000";
+    NSFileOwnerAccountID = 0;
+    NSFileOwnerAccountName = root;
+    NSFilePosixPermissions = 2541;
+    NSFileReferenceCount = 1;
+    NSFileSize = 27200;
+    NSFileSystemFileNumber = 171240684;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeRegular;
+}
+
+2017-10-22 17:49:17 +0200 [E]  RA: 
+Attributes for '/var/folders/n0/s6glmv2s6qj484ms12rq3yfm0000gn/T':
+ {
+    NSFileCreationDate = "2016-12-26 21:43:05 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2017-10-22 15:49:12 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = nrgiga;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 100;
+    NSFileSize = 3400;
+    NSFileSystemFileNumber = 157978614;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeDirectory;
+}
+
+2017-10-22 18:45:05 +0200 [E]  RA: 
+Attributes for '/var/folders/n0/s6glmv2s6qj484ms12rq3yfm0000gn/T/FPInstallHelper':
+ {
+    NSFileCreationDate = "2017-10-12 01:33:21 +0000";
+    NSFileExtendedAttributes =     {
+        "com.apple.quarantine" = <30313831 3b353965 63633936 323b476f 6f676c65 5c783230 4368726f 6d653b42 36393638 3946452d 35463138 2d344538 462d3941 30372d36 36314145 32374343 364141>;
+    };
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 0;
+    NSFileGroupOwnerAccountName = wheel;
+    NSFileHFSCreatorCode = 0;
+    NSFileHFSTypeCode = 0;
+    NSFileModificationDate = "2017-10-12 01:33:21 +0000";
+    NSFileOwnerAccountID = 0;
+    NSFileOwnerAccountName = root;
+    NSFilePosixPermissions = 2541;
+    NSFileReferenceCount = 1;
+    NSFileSize = 27200;
+    NSFileSystemFileNumber = 171263080;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeRegular;
+}
+
+2017-10-22 18:45:05 +0200 [E]  RA: 
+Attributes for '/var/folders/n0/s6glmv2s6qj484ms12rq3yfm0000gn/T':
+ {
+    NSFileCreationDate = "2016-12-26 21:43:05 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2017-10-22 16:45:00 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = nrgiga;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 103;
+    NSFileSize = 3502;
+    NSFileSystemFileNumber = 157978614;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeDirectory;
+}
+
+2017-11-01 14:22:17 +0100 [E]  RA: 
+Attributes for '/var/folders/n0/s6glmv2s6qj484ms12rq3yfm0000gn/T/FPInstallHelper':
+ {
+    NSFileCreationDate = "2017-10-20 19:32:59 +0000";
+    NSFileExtendedAttributes =     {
+        "com.apple.quarantine" = <30313831 3b353966 39636135 623b476f 6f676c65 5c783230 4368726f 6d653b41 35393233 3235352d 30324335 2d344331 352d4134 44302d32 39423235 45444543 413435>;
+    };
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 0;
+    NSFileGroupOwnerAccountName = wheel;
+    NSFileHFSCreatorCode = 0;
+    NSFileHFSTypeCode = 0;
+    NSFileModificationDate = "2017-10-20 19:32:59 +0000";
+    NSFileOwnerAccountID = 0;
+    NSFileOwnerAccountName = root;
+    NSFilePosixPermissions = 2541;
+    NSFileReferenceCount = 1;
+    NSFileSize = 27200;
+    NSFileSystemFileNumber = 171633850;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeRegular;
+}
+
+2017-11-01 14:22:17 +0100 [E]  RA: 
+Attributes for '/var/folders/n0/s6glmv2s6qj484ms12rq3yfm0000gn/T':
+ {
+    NSFileCreationDate = "2016-12-26 21:43:05 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2017-11-01 13:22:11 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = nrgiga;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 73;
+    NSFileSize = 2482;
+    NSFileSystemFileNumber = 157978614;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeDirectory;
+}
+

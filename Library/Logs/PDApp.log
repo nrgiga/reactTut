@@ -1,0 +1,10 @@
+01/27/15 18:11:48:577 | [INFO] |  | AdobeUpdateService | AdobeUpdateService |  |  |  | 409 | Service exe Started
+01/27/15 18:11:48:609 | [TRACE] |  | AdobeUpdateService | AdobeUpdateService |  |  |  | 409 | Initializing1 Connection Channel with Service with pipename: F7C71944B49B446081C0603DE90E4855
+01/27/15 18:16:34:581 | [INFO] |  | AdobeUpdateService | AdobeUpdateService |  |  |  | 409 | SIGTERM received, sending signal to release the event lock
+01/27/15 18:16:34:581 | [INFO] |  | AdobeUpdateService | AdobeUpdateService |  |  |  | 409 | Terminating all threads
+01/27/15 18:16:34:581 | [INFO] |  | AdobeUpdateService | AdobeUpdateService |  |  |  | 409 | Successfully terminated all threads
+01/27/15 18:16:52:934 | [INFO] |  | AdobeUpdateService | AdobeUpdateService |  |  |  | 410 | Service exe Started
+01/27/15 18:16:52:952 | [TRACE] |  | AdobeUpdateService | AdobeUpdateService |  |  |  | 410 | Initializing1 Connection Channel with Service with pipename: F7C71944B49B446081C0603DE90E4855
+01/27/15 18:19:57:723 | [INFO] |  | AdobeUpdateService | AdobeUpdateService |  |  |  | 410 | SIGTERM received, sending signal to release the event lock
+01/27/15 18:19:57:723 | [INFO] |  | AdobeUpdateService | AdobeUpdateService |  |  |  | 410 | Terminating all threads
+01/27/15 18:19:57:723 | [INFO] |  | AdobeUpdateService | AdobeUpdateService |  |  |  | 410 | Successfully terminated all threads
